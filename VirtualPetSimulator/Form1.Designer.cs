@@ -190,7 +190,6 @@
             this.Controls.Add(this.lblHappiness);
             this.Controls.Add(this.lblEnergy);
             this.Controls.Add(this.lblHunger);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
